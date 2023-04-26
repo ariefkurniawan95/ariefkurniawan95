@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @ariefkurniawan95
 - 👀 I’m interested in Finance and Technology
-- 🌱 I’m currently learning data analysis.
-- 💞️ I’m looking to collaborate on retail data analysis 
+- 🌱 I’m currently learning data science and machine learning in Purwadhika.
+- 💞️ I’m looking to collaborate on retail data analysis / web-based point of sales application.
 - 📫 contact me at business.arief@gmail.com or at Instagram @ariefchen95
 
 <!---
