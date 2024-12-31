@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @ariefkurniawan95
-- 👀 I’m interested in Finance and Technology
+- 👀 I’m interested in Supply Chain and Operations
 - 🌱 I’m currently learning data science and machine learning in Purwadhika.
 - 💞️ I’m looking to collaborate on retail data analysis or web-based point of sales application.
 - 📫 contact me at business.arief@gmail.com
